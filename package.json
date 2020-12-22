@@ -1,0 +1,27 @@
+{
+  "name": "pizzabot",
+  "version": "1.0.0",
+  "description": "Discord Bot Made By PizzaLover",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.20.0",
+    "canvacord": "^5.0.7",
+    "canvas": "^2.6.1",
+    "cheerio": "^0.22.0",
+    "discord-rpc": "^3.1.2",
+    "discord.js": "^12.2.0",
+    "ffmpeg": "0.0.4",
+    "fs": "0.0.2",
+    "mongoose": "^5.11.5",
+    "node-opus": "^0.3.3",
+    "opusscript": "^0.0.7",
+    "request": "^2.88.2",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^4.2.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
